@@ -2,8 +2,6 @@
 系统性记录从零构建 LLM Agent 的学习与实验过程，涵盖 ReAct、工具调用、记忆、规划、评测与 Agent 系统设计。
 Systematically document the learning and experimentation process of building an LLM Agent from scratch, covering ReAct, tool invocation, memory, planning, evaluation, and agent system design.
 
-[English version below ⬇️]
-
 ---
 
 ## 中文说明
@@ -33,6 +31,8 @@ Systematically document the learning and experimentation process of building an 
   - agent-planning-lab：任务规划与分解
   - agent-eval-bench：评测与基准
   - agent-final-system：完整 Agent 系统整合
+
+- 实验仓库列表：见 [labs.md](./labs.md)
 
 本项目将逐步演进，记录假设、实验、失败与改进过程。
 
@@ -66,6 +66,8 @@ The goal is not to build demos, but to develop a deep understanding of agent arc
   - agent-planning-lab: task decomposition & replanning
   - agent-eval-bench: evaluation & benchmarks
   - agent-final-system: integrated agent system
+
+- List of labs repositories: See [labs.md](./labs.md)
 
 This project will evolve incrementally, documenting hypotheses, experiments, failures, and improvements.
 
