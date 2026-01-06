@@ -1,9 +1,5 @@
 # Labs
 
-[English version below ⬇️]
-
----
-
 ## 中文说明
 
 本页面列出了本学习路径中所有实验性仓库（Labs）。
